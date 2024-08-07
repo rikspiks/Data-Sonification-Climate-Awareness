@@ -9,4 +9,4 @@ Explanatory animation:
 
 Python Code for the Sonification:
 
-Additional information about the deriavtion of the environmental awareness data: [HGP_25_Jahre_UBS_Zeitverlaufsgrafik](https://github.com/rikspiks/Data-Sonification-Climate-Awareness/blob/main/HGP_25%20Jahre%20UBS_Abb%20S.%2013_Zeitverlaufsgrafik.xlsx)
+Additional information about the deriavtion of the environmental awareness data: [HGP_25_Jahre_UBS_Zeitverlaufsgrafik](https://github.com/rikspiks/Data-Sonification-Climate-Awareness/blob/main/HGP_25%20Jahre_UBS_Zeitverlaufsgrafik.xlsx)
