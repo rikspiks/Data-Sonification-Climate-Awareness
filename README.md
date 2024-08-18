@@ -3,7 +3,7 @@ This repository contains additional material for the Seminar Project "Climate Aw
 
 ## Content
 
-Sonification track: You can listen to the track on [Soundcloud](https://soundcloud.com/rike-muehlhaus/awareness-data-sonification-project?si=7dd9e9424ed249f8ae8e1e7a7ccbba86&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+Sonification track: You can listen to the track on [Soundcloud](https://soundcloud.com/rike-muehlhaus/awareness-project?si=83cfecbeeb7c496cb4c15380b8c94c62&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
 
 Explanatory animation:
 
